@@ -2,6 +2,7 @@
   "name": "hokan-pwa-sw",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tenta1111.github.io/hokan-pwa-SW",
   "dependencies": {
     "@material-ui/core": "^3.7.0",
     "@material-ui/icons": "^3.0.1",
@@ -11,10 +12,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && yarn sw",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "sw": "workbox injectManifest workbox.config.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,6 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "workbox-cli": "^3.6.3"
   }
 }

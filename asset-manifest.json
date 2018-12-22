@@ -1,7 +1,7 @@
 {
   "main.css": "/hokan-pwa-SW/static/css/main.13fe6245.chunk.css",
-  "main.js": "/hokan-pwa-SW/static/js/main.1ed3687d.chunk.js",
-  "main.js.map": "/hokan-pwa-SW/static/js/main.1ed3687d.chunk.js.map",
+  "main.js": "/hokan-pwa-SW/static/js/main.b3ae6289.chunk.js",
+  "main.js.map": "/hokan-pwa-SW/static/js/main.b3ae6289.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/hokan-pwa-SW/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/hokan-pwa-SW/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/hokan-pwa-SW/static/js/runtime~main.5a2f2128.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/hokan-pwa-SW/static/media/logo.5d5d9eef.svg",
   "static/css/main.13fe6245.chunk.css.map": "/hokan-pwa-SW/static/css/main.13fe6245.chunk.css.map",
   "index.html": "/hokan-pwa-SW/index.html",
-  "precache-manifest.86e55210579fc3d8b91e35607a717bc8.js": "/hokan-pwa-SW/precache-manifest.86e55210579fc3d8b91e35607a717bc8.js",
+  "precache-manifest.40f60d6d5a55deabc9599d30ebc70824.js": "/hokan-pwa-SW/precache-manifest.40f60d6d5a55deabc9599d30ebc70824.js",
   "service-worker.js": "/hokan-pwa-SW/service-worker.js"
 }

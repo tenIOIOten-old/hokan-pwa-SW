@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/hokan-pwa-SW/static/js/runtime~main.5a2f2128.js"
   },
   {
-    "revision": "b3ae628901ef1227121e",
-    "url": "/hokan-pwa-SW/static/js/main.b3ae6289.chunk.js"
+    "revision": "ae43e7bea1e1ee45a5c0",
+    "url": "/hokan-pwa-SW/static/js/main.ae43e7be.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/hokan-pwa-SW/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "b3ae628901ef1227121e",
-    "url": "/hokan-pwa-SW/static/css/main.13fe6245.chunk.css"
+    "revision": "ae43e7bea1e1ee45a5c0",
+    "url": "/hokan-pwa-SW/static/css/main.a76a4a77.chunk.css"
   },
   {
-    "revision": "7dd75cd01ae826282e6080950df33516",
+    "revision": "9879d9c046a9a3d20b4c25d1f9af5c92",
     "url": "/hokan-pwa-SW/index.html"
   }
 ];
